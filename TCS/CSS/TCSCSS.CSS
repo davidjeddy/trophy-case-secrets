@@ -1,0 +1,51 @@
+@charset "iso-8859-1";
+/* author: CEGI Services */
+/* Creation date: 7/24/2001 */
+BODY {
+background-color:#000000;
+scrollbar-face-color:#666666;
+scrollbar-shadow-color:#000000;
+scrollbar-highlight-color:#000000;
+scrollbar-3dlight-color:#000000;
+scrollbar-darkshadow-color: #000000;
+scrollbar-track-color: #000000;
+scrollbar-arrow-color:#000000;}
+
+A:link {text-decoration:underline;color:#999999;}
+
+A:hover {text-decoration:underline;background-color:#666666;color:#cccccc;}
+
+A:active {text-decoration:underline;background-color:#666666;color:#ffffff;}
+
+A:visited {text-decoration:underline;color:#999999}
+
+FONT.text {
+font: normal normal 9pt monospace;
+color:#666666;
+}
+
+FONT.text1 {
+font: normal normal 9pt monospace;
+color:#666666;
+}
+
+FONT.text2 {
+font: normal normal 12pt monospace;
+color:#666666;
+}
+
+IMG {border:0;border-color:#ffffff}
+
+TD.TDb {background-color:#333333;}
+
+.table {z-index:3;background-color:#000001;}
+
+.tcstitle {position:absolute;top:0;left:30;z-index:-1;}
+
+.rotatingimgs {position:absolute;top:0;left:375;z-index:3;}
+
+.bodytable {position:absolute;z-index:2;top:200;left:100;width:600}
+
+.copyright {position:absolute;bottom:0;left:100;width:600;}
+
+.cdcovers {border-color:#333333;}
